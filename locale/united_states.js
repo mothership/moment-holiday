@@ -70,12 +70,12 @@
       keywords_n: ['after']
     },
     "Day after Thanksgiving": {
-      date: '11/(5,[23])',
+      date: '11/29',
       keywords: ['thanks', 'turkey'],
       keywords_y: ['after']
     },
     "Christmas Eve": {
-      date: '12/20',
+      date: '12/24',
       keywords: ['christ', 'x-?mas'],
       keywords_y: ['eve']
     },
