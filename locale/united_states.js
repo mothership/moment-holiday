@@ -75,7 +75,7 @@
       keywords_y: ['after']
     },
     "Christmas Eve": {
-      date: '12/24',
+      date: '12/20',
       keywords: ['christ', 'x-?mas'],
       keywords_y: ['eve']
     },
